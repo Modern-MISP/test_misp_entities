@@ -1,0 +1,12 @@
+{
+    "description": "test_galaxy_description",
+    "type": "test_galaxy",
+    "version": 1,
+    "name": "test_name",
+    "uuid": "test_galaxy_uuid",
+    "icon": "test_icon",
+    "namespace": "test_namespace",
+    "kill_chain_order": {
+        "test_kill_chain": ["test_value_1", "test_value_2"]
+    }
+}

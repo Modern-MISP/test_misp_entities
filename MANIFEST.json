@@ -1,0 +1,14 @@
+{
+  "description": "test_manifest",
+  "license": "test_license",
+  "path": "machinetag.json",
+  "taxonomies": [
+    {
+      "description": "test_description",
+      "name": "test_namespace",
+      "version": 1
+    }
+  ],
+  "url": "https://raw.githubusercontent.com/Modern-MISP/test_misp_entities/taxonomies/",
+  "version": "1"
+}

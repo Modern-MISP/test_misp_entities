@@ -1,0 +1,19 @@
+{
+  "namespace": "test_namespace",
+  "description": "test_description",
+  "version": 1,
+  "expanded": "test_expanded",
+  "exclusive": true,
+  "type": ["org"],
+  "refs": ["test_refs"],
+  "predicates": [
+    {
+      "value": "test_predicate_value",
+      "numerical_value": 1,
+      "colour": "test_pc",
+      "description": "test_predicate_description",
+      "expanded": "test_predicate_expanded",
+      "exclusive": true
+    }
+  ]
+}

@@ -3,16 +3,8 @@
     "type": "test_galaxy",
     "version": 1,
     "name": "test_name",
-    "uuid": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "values": [
-        {
-            "value": "test_value",
-            "description": "test_cluster_description",
-            "uuid": "test_cluster_uuid",
-            "revoked": true,
-            "meta": {
-                "type": ["test_type_1", "test_type_2"],
-                "complexity": "test_complexity"
+    "uuid": "test_cluster_collection_uuid",
+    "valomplexity": "test_complexity"
             }
         }
     ],

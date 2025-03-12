@@ -1,0 +1,26 @@
+{
+    "description": "test_cluster_general_description",
+    "type": "test_galaxy",
+    "version": 1,
+    "name": "test_name",
+    "uuid": "test_cluster_collection_uuid",
+    "values": [
+        {
+            "value": "test_value_1",
+            "uuid": "test_cluster_uuid_1"
+        },
+        {
+            "value": "test_value_2",
+            "uuid": "test_cluster_uuid_2",
+            "related": [
+                {
+                    "dest-uuid": "test_cluster_uuid_1",
+                    "type": "test_type"
+                }
+            ]
+        }
+    ],
+    "authors": ["test_author_1", "test_author_2"],
+    "source": "test_source",
+    "category": "test_category"
+}

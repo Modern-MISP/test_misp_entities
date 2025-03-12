@@ -1,0 +1,7 @@
+{
+    "description": "test_galaxy_description",
+    "type": "test_galaxy",
+    "version": 1,
+    "name": "test_name",
+    "uuid": "test_galaxy_uuid"
+}

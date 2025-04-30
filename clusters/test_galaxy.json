@@ -1,14 +1,14 @@
 {
     "description": "test_cluster_general_description",
     "type": "test_galaxy",
-    "version": 1,
+    "version": "invalidVersion",
     "name": "test_name",
-    "uuid": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "uuid": "9e9b9589-07fc-44d3-851e-ad16e973503d",
     "values": [
         {
             "value": "test_value",
             "description": "test_cluster_description",
-            "uuid": "test_cluster_uuid",
+            "uuid": "765dc390-f3f4-4869-a07c-9937355a4b61",
             "revoked": true,
             "meta": {
                 "type": ["test_type_1", "test_type_2"],

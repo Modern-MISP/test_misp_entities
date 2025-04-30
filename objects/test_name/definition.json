@@ -1,23 +1,23 @@
 {
-	"attributes": {
-		"test_element": {
-			"misp-attribute": "other",
-	        "ui-priority": 1,
-	        "description": "test_element_description",
-	        "categories": ["Antivirus detection", "Other"],
-	        "disable_correlation": true,
-	        "multiple": true,
-	        "recommended": true,
-	        "sane_default": ["test_sane_default_1", "test_sane_default_2"],
-	        "to_ids": true,
-	        "values_list": ["test_value_1", "test_value_2"]
-		}
-	},
-    "version": 1,
-    "description": "test_description",
-    "meta-category": "file",
-    "name": "test_name",
-    "uuid": "test_uuid",
-    "required": ["test_required_1", "test_required_2"],
-    "requiredOneOf": ["test_requiredOneOf_1", "test_requiredOneOf_2"]
+  "attributes": {
+    "test_element": {
+      "misp-attribute": "other",
+      "ui-priority": 1,
+      "description": "test_element_description",
+      "categories": ["Antivirus detection", "Other"],
+      "disable_correlation": true,
+      "multiple": true,
+      "recommended": true,
+      "sane_default": ["test_sane_default_1", "test_sane_default_2"],
+      "to_ids": true,
+      "values_list": ["test_value_1", "test_value_2"]
+    }
+  },
+  "version": 1,
+  "description": "test_description",
+  "meta-category": "file",
+  "name": "test_name",
+  "uuid": "b61d8aa7-9a0a-4b1b-b4c4-eba26fbd9628",
+  "required": ["test_required_1", "test_required_2"],
+  "requiredOneOf": ["test_requiredOneOf_1", "test_requiredOneOf_2"]
 }

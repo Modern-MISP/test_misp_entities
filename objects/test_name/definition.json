@@ -13,11 +13,11 @@
 	        "values_list": ["test_value_1", "test_value_2"]
 		}
 	},
-    "version": 1,
+    "version": "invalideVersion",
     "description": "test_description",
     "meta-category": "file",
     "name": "test_name",
-    "uuid": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "uuid": "02490d83-a8bc-47dc-8413-148040270b0a",
     "required": ["test_required_1", "test_required_2"],
     "requiredOneOf": ["test_requiredOneOf_1", "test_requiredOneOf_2"]
 }

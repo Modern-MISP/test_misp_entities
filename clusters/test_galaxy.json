@@ -3,7 +3,7 @@
     "type": "test_galaxy",
     "version": 1,
     "name": "test_name",
-    "uuid": "b179fb98-9a25-403a-bbcf-17876dbe7339",
+    "uuid": "0179fb98-9a25-403a-bbcf-17876dbe7339",
     "values": [
         {
             "value": "test_value",

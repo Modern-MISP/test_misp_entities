@@ -3,7 +3,7 @@
     "type": "test_galaxy",
     "version": 1,
     "name": "test_name",
-    "uuid": "test_galaxy_uuid",
+    "uuid": "4dbda00a-f156-468c-bf0f-2c04f4ad0393",
     "icon": "test_icon",
     "namespace": "test_namespace",
     "kill_chain_order": {

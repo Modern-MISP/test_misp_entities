@@ -3,18 +3,18 @@
     "type": "test_galaxy",
     "version": 1,
     "name": "test_name",
-    "uuid": "test_cluster_collection_uuid",
+    "uuid": "0700546e-affa-4c39-9e4d-037aab88f2a5",
     "values": [
         {
             "value": "test_value_1",
-            "uuid": "test_cluster_uuid_1"
+            "uuid": "1203d8ac-2d6e-45fc-aa56-22ee9ac3f767"
         },
         {
             "value": "test_value_2",
-            "uuid": "test_cluster_uuid_2",
+            "uuid": "e1864d08-d33d-429e-9b0d-0bafc4918acc",
             "related": [
                 {
-                    "dest-uuid": "test_cluster_uuid_1",
+                    "dest-uuid": "1203d8ac-2d6e-45fc-aa56-22ee9ac3f767",
                     "type": "test_type"
                 }
             ]

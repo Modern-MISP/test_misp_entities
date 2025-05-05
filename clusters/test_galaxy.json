@@ -3,12 +3,12 @@
     "type": "test_galaxy",
     "version": 1,
     "name": "test_name",
-    "uuid": "test_cluster_collection_uuid",
+    "uuid": "8968c7cc-b450-45e0-ba89-9005ef8658f0",
     "values": [
         {
             "value": "test_value",
             "description": "test_cluster_description",
-            "uuid": "test_cluster_uuid",
+            "uuid": "98152ab7-5451-4c1e-9849-8b0adb984de4",
             "revoked": true,
             "meta": {
                 "type": ["test_type_1", "test_type_2"],
